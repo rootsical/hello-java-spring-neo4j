@@ -3,7 +3,7 @@ HELLO-JAVA-SPRING-NEO4J
 
 INTRO
 ----
-this is a simple project i created to get started with spring data neo4j.
+this is a simple project i modified to get started with spring data neo4j.
 it is basically a copy of this project here by James Ward:  
 <http://www.jamesward.com/2012/05/14/graphs-in-the-cloud-spring-neo4j-on-heroku>  
 <https://github.com/jamesward/hello-java-spring-neo4j>
