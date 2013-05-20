@@ -1,0 +1,15 @@
+#######################
+### .GITIGNORE FILE ###
+#######################
+
+#ignores all files in target folder
+/target
+
+#ignores eclipse .classpath file
+/.classpath
+
+#ignores eclipse .project file
+/.project
+
+#ignore eclipse .settings folder
+/.settings
