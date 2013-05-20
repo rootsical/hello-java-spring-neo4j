@@ -1,8 +1,8 @@
-################################
-#### HELLO-JAVA-SPRING-NEO4J ###
-################################
+HELLO-JAVA-SPRING-NEO4J
+=======================
 
 INTRO
+-----
 this is a simple project i created to get started with spring data neo4j.
 it is basically a copy of this project here by James Ward:
 http://www.jamesward.com/2012/05/14/graphs-in-the-cloud-spring-neo4j-on-heroku
@@ -16,6 +16,7 @@ this web app will enable you to create and delete 'person' nodes.. relationships
 
 
 TO IMPORT INTO ECLIPSE:
+-----------------------
 to download this repository you can click on the github ZIP button and then extract to a folder of your choice 
 
 OR (by using git)
@@ -34,6 +35,7 @@ browse to the location of the downloaded repository
 the project should now be available in your current eclipse workspace
 
 TO RUN:
+-------
 right-click on the project root in eclipse workspace
 select run as->maven build
 
