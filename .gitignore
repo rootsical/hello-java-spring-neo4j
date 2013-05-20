@@ -3,13 +3,13 @@
 #######################
 
 #ignores all files in target folder
-/target
+target/
 
 #ignores eclipse .classpath file
-/.classpath
+.classpath
 
 #ignores eclipse .project file
-/.project
+.project
 
 #ignore eclipse .settings folder
-/.settings
+.settings/
