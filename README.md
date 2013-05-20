@@ -63,7 +63,8 @@ TO VIEW THE WEB APP:
 
 TO VIEW YOUR DATABASE IN NEO4J WEB ADMIN INTERFACE:
 ----
-1. make sure you have neo4j installed and configured
+1. make sure you have neo4j installed and configured:  
+<http://www.neo4j.org/download>
 
 2. change the database your neo4j installation points to by changing the
 conf/neo4j-server.properties file located in your neo4j installation folder
