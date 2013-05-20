@@ -30,7 +30,7 @@ to download this repository you can
 2. make sure you have installed eclipse maven plugin:  
 <http://eclipse.org/m2e/download/>
 
-3. then select  
+3. then select:  
 file->import->maven->existing maven projects
 
 4. browse to the location of the downloaded repository
@@ -40,7 +40,8 @@ file->import->maven->existing maven projects
 TO RUN:
 ----
 1. right-click on the project root in eclipse workspace  
-select run as->maven build
+then select:  
+run as->maven build
 
 2. the run configuration dialog should come up
 enter:
