@@ -91,5 +91,5 @@ in your web browser and then find the nodes using the data browser and queries o
 *note that no relationships are defined in this example, only nodes..*  
 
 - - -  
-*feel free to contact me if you have any problems or questions, but i am only starting out myself, so go easy!
+*feel free to contact me if you have any problems or questions, but i am only starting out myself, so go easy!  
 rootsical@gmail.com*
