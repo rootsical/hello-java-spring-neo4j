@@ -81,10 +81,18 @@ conf/neo4j-server.properties file located in your neo4j installation folder
 
  *(in this file, the hash symbol '#' denotes a comment and will be ignored)*
 
-3. start the neo4j server
+3. start the neo4j server:  
+<http://docs.neo4j.org/chunked/stable/server-installation.html>
 
 4. navigate to:  
 <http://localhost:7474>  
 in your web browser and then find the nodes using the data browser and queries of your choice.  the initial nodes already created have id 1 to and including 5.  
 *for example, just enter the number 1 in the search box and the node with id=1 should be returned*  
-*note that no relationships are defined in this example, only nodes..*
+*note that no relationships are defined in this example, only nodes..*  
+
+
+- - -  
+- - -
+- - -  
+*feel free to contact me if you have any problems or questions, but i am only starting out myself, so go easy!
+rootsical@gmail.com*
