@@ -10,7 +10,7 @@ it is basically a copy of this project here by James Ward:
 
 i really liked his example, as it got rid of some more complicated things i found in other examples such as aspects and tests. all i have done, is tried to make it generic to run locally on a jetty server so that it is easier to explore and get started with spring data neo4j
 
-this web app will enable you to create and delete 'person' nodes.. (*relationships are not created*)
+this web app will enable you to create and delete 'person' nodes.. *(relationships are not created)*
 
 
 TO IMPORT INTO ECLIPSE:
