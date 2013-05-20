@@ -58,12 +58,12 @@ change the database your neo4j installation points to by changing the
 conf/neo4j-server.properties file located in your neo4j installation folder
 
 on line 10 (or there abouts i guess) change the location to match the location of your project database
-# location of the database directory 
-#org.neo4j.server.database.location=data/graph.db
-org.neo4j.server.database.location=<path-to-your-project>/data/graph.db
+    # location of the database directory 
+    #org.neo4j.server.database.location=data/graph.db
+    org.neo4j.server.database.location=<path-to-your-project>/data/graph.db
 
 for example:
-org.neo4j.server.database.location=C:/users/me/myproject/hello-java-spring-neo4j/data/graph.db
+    org.neo4j.server.database.location=C:/users/me/myproject/hello-java-spring-neo4j/data/graph.db
 
 (in this file, the hash symbol '#' denotes a comment and will be ignored)
 
