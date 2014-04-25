@@ -29,7 +29,7 @@
 
     <tx:annotation-driven />
 	
-	<neo4j:config storeDirectory="${OPENSHIFT_DATA_DIR}/graph.db" />
+	<neo4j:config storeDirectory="./data/graph.db" />
     <bean class="org.springframework.beans.factory.config.PropertyPlaceholderConfigurer"/>
     
 
