@@ -62,6 +62,13 @@ TO VIEW THE WEB APP:
 3. add and delete people to your heart's content.. *(i already added 5 people already to get started..)*  the neo4j database is located in the data directory under the project root
 (hello-java-spring-neo4j/data/graph.db/)
 
+you may encounter problems with jetty being unable to invoke javac. if this is the case, eclipse may be pointing to a JRE rather than the JDK version of java.  i solved this in eclipse by going to:  
+->windows  
+->preferences  
+->java  
+->installed JREs  
+edit the existing JRE to point to the JDK version of java.
+
 TO VIEW YOUR DATABASE IN NEO4J WEB ADMIN INTERFACE:
 ----
 1. make sure you have neo4j installed and configured:  
